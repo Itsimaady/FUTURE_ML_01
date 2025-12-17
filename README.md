@@ -213,7 +213,7 @@ print(forecast[['ds', 'yhat', 'yhat_lower', 'yhat_upper']].tail())
 
 ## 💫 **About the Developer**
 
-**Name:** Aditya M  
+**Name:** Syed Imaaduddin 
 **Location:** Hyderabad, India  
 **Institution:** Chaitanya Bharathi Institute of Technology (CBIT)  
 **Focus Areas:** Machine Learning, Data Science, Web Development  
