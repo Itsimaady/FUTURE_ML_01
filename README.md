@@ -239,5 +239,5 @@ If you found this project helpful:
 
 ---
 
-**Made with ❤️ by Aditya M**  
+**Made with ❤️ by Syed Imaaduddin**  
 *Last Updated: December 2024*
